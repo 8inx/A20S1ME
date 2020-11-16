@@ -49,8 +49,8 @@ int main()
     
     cout << " Input sides a, b and c of a triangle:\n\n";
     cout << " Input the value of a: " << a << "\n";
-    cout << " Input the value of a: " << a << "\n";
-    cout << " Input the value of a: " << a << "\n";
+    cout << " Input the value of a: " << b << "\n";
+    cout << " Input the value of a: " << c << "\n";
     cout << setprecision(2) << fixed << "\n";
     cout << " The median from vertex A to side a = " << Mdn_A << "\n";
     cout << " The median from vertex B to side b = " << Mdn_B << "\n";
